@@ -5,7 +5,7 @@ import csv
 import folium 
 from collections import defaultdict
 
-API_KEY = "4f0158ee6322040b36bd3f89ff836202fa13d6b3"
+API_KEY = "api aqui"
 
 BASE_FOLDER = "pantanal_completo_xeno_canto"
 AUDIO_FOLDER = os.path.join(BASE_FOLDER, "audios")
